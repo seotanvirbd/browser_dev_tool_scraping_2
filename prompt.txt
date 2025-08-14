@@ -1,0 +1,4 @@
+https://books.toscrape.com/index.html 
+I want to scrape all datas from all pages from the above website and after that all datas will be downloaded in json, csv and excel files.
+I will use non other the browser console in which the website will be openned. 
+So me give the js code that I will execute in the browser console direcly
